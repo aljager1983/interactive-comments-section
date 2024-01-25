@@ -8,7 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   
     <App />
-  
+//   remove restrict line to avoid duplicate data fetching
 );
 
 
